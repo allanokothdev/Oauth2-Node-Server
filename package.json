@@ -1,0 +1,22 @@
+{
+  "name": "oauth2-node-server",
+  "version": "1.0.0",
+  "description": "Oauth2 Node Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allanokothdev/Oauth2-Node-Server.git"
+  },
+  "keywords": [
+    "NodeJS"
+  ],
+  "author": "Allan Okoth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allanokothdev/Oauth2-Node-Server/issues"
+  },
+  "homepage": "https://github.com/allanokothdev/Oauth2-Node-Server#readme"
+}
