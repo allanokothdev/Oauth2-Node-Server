@@ -7,7 +7,7 @@ const CLIENT_SECRET = "20db451ca65ad6c9d285c04fbb4715ca7b948750";
 const GITHUB_URL = "https://github.com/login/oauth/access_token";
 
 const app = express();
-app.use(cors ({ credentials: true, origin: true }));
+app.use(cors({ credentials: true, origin: true }));
 
 app.get("/oauth/redirect", (req, res) => {
     axios({
